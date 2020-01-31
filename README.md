@@ -1,1 +1,1 @@
-# 'movies' proyect to learn how to use Sinatra
+# 'movies' project to learn how to use Sinatra
